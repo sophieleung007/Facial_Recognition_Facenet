@@ -12,7 +12,7 @@ This repository contains a facial recognition project using the Facenet model wi
 - Model saved to Google Drive for deployment (update path as needed).
 
 ## Files
-- [Augmented_0_3_RMSprop_Training_Facenet_.py](https://github.com/sophieleung007/Facial_Recognition_Facenet/blob/main/Augmented_0_3_RMSprop_Training_Facenet_.py)
+- [Augmented_0_3_RMSprop_Training_Facenet_.py](https://github.com/sophieleung007/Facial_Recognition_Facenet/blob/main/augmented_0_3_rmsprop_training_facenet_.py)
 
 ## Note
 - Interactive widgets from the original notebook are not included; run the script with an image path for testing.
